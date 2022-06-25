@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "webcam-capture-on-windows-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "joemrk",
+  "license": "ISC",
+  "dependencies": {
+    "camera-capture": "0.0.11",
+    "node-telegram-bot-api": "^0.58.0",
+    "puppeteer": "^15.1.1"
+  }
+}
